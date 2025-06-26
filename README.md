@@ -59,7 +59,7 @@ fraud_detection_project/
 
 ## ⚙️ Workflow Overview
 
-```mermaid
+
 flowchart TD
     A[Load Dataset] --> B[Preprocess Data (Scaling + SMOTE)]
     B --> C[Train RandomForest Model]
